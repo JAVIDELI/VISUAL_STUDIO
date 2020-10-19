@@ -1,0 +1,2 @@
+C:\Users\javi_\Desktop\Curso C++\Programación de consola\Practica5_JDD\Debug\Practica5_JDD.exe
+C:\Users\javi_\Desktop\Curso C++\Programación de consola\Practica5_JDD\Debug\Practica5_JDD.pdb
