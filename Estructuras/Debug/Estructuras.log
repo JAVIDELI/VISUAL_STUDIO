@@ -1,0 +1,21 @@
+﻿  Textos.c
+C:\Users\javi_\source\repos\Estructuras\Textos.c(59,9): warning C4778: 'printf' : cadena de formato sin terminar '%\n'
+C:\Users\javi_\source\repos\Estructuras\Textos.c(59,28): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\javi_\source\repos\Estructuras\Textos.c(59,28): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\javi_\source\repos\Estructuras\Textos.c(78,31): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\javi_\source\repos\Estructuras\Textos.c(78,31): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\javi_\source\repos\Estructuras\Textos.c(69,7): warning C4101: 'nombre_calle': variable local sin referencia
+C:\Users\javi_\source\repos\Estructuras\Textos.c(68,7): warning C4101: 'localidad': variable local sin referencia
+C:\Users\javi_\source\repos\Estructuras\Textos.c(67,6): warning C4101: 'numero_calle': variable local sin referencia
+C:\Users\javi_\source\repos\Estructuras\Textos.c(133,30): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+C:\Users\javi_\source\repos\Estructuras\Textos.c(133,30): message : los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+C:\Users\javi_\source\repos\Estructuras\Textos.c(139,10): warning C4013: 'array_x2' sin definir; se supone que extern devuelve como resultado int
+C:\Users\javi_\source\repos\Estructuras\Textos.c(140,15): warning C4013: 'mostrar_array' sin definir; se supone que extern devuelve como resultado int
+C:\Users\javi_\source\repos\Estructuras\Textos.c(143,6): error C2371: 'array_x2': nueva definición; tipos básicos distintos
+C:\Users\javi_\source\repos\Estructuras\Textos.c(151,6): error C2371: 'mostrar_array': nueva definición; tipos básicos distintos
+C:\Users\javi_\source\repos\Estructuras\Textos.c(153,28): error C2065: 'ln': identificador no declarado
+C:\Users\javi_\source\repos\Estructuras\Textos.c(153,30): error C2109: el subíndice requiere una matriz o tipo de puntero
+C:\Users\javi_\source\repos\Estructuras\Textos.c(153,10): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\javi_\source\repos\Estructuras\Textos.c(153,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\javi_\source\repos\Estructuras\Textos.c(153,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%i'
+C:\Users\javi_\source\repos\Estructuras\Textos.c(151): fatal error C1075: "{": no se encontró ningún token coincidente

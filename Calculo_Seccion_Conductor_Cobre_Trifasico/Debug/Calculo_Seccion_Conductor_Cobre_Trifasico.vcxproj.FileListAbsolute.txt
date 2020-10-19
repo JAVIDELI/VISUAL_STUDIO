@@ -1,0 +1,2 @@
+C:\Users\javi_\source\repos\Calculo_Seccion_Conductor_Cobre_Trifasico\Debug\Calculo_Seccion_Conductor_Cobre_Trifasico.exe
+C:\Users\javi_\source\repos\Calculo_Seccion_Conductor_Cobre_Trifasico\Debug\Calculo_Seccion_Conductor_Cobre_Trifasico.pdb

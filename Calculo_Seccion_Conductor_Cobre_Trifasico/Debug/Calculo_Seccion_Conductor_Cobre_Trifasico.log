@@ -1,0 +1,4 @@
+﻿  Calculo_Seccion_Conductor_Cobre_Trifasico.cpp
+C:\Users\javi_\source\repos\Calculo_Seccion_Conductor_Cobre_Trifasico\Calculo_Seccion_Conductor_Cobre_Trifasico.cpp(15,26): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\javi_\source\repos\Calculo_Seccion_Conductor_Cobre_Trifasico\Calculo_Seccion_Conductor_Cobre_Trifasico.cpp(17,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Calculo_Seccion_Conductor_Cobre_Trifasico.vcxproj -> C:\Users\javi_\source\repos\Calculo_Seccion_Conductor_Cobre_Trifasico\Debug\Calculo_Seccion_Conductor_Cobre_Trifasico.exe
